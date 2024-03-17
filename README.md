@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chaho12, 
 - 👀 I’m interested in Data Engineering, especially about data flow.
 - 🌱 I’m currently learning more about apache hive, apache flink, trino etc.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data engine Trino
 - 📫 How to reach me : check me out @ linkedin https://www.linkedin.com/in/jaeho-y-9a5b10143/
   - Here is one of my [presentations at Deview 2023](https://deview.kr/2023/sessions/555), the largest developer conference in S.Korea 
 
